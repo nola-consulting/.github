@@ -30,8 +30,8 @@ At Nola Consulting, we pride ourselves on delivering world-class e-commerce solu
 
 Interested in working with us or learning more about how we can help your business thrive in the e-commerce world? Feel free to reach out!
 
-- 📧 Email: [contact@nola-consulting.fr](mailto:contact@nola-consulting.fr)
-- 🌐 Website: [nola-consulting.fr](https://nola-consulting.fr)
+- 📧 Email: [contact@nolaconsulting.fr](mailto:contact@nolaconsulting.fr)
+- 🌐 Website: [nolaconsulting.fr](https://nolaconsulting.fr)
 
 ## License
 
